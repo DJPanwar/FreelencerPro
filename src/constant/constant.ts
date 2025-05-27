@@ -136,7 +136,7 @@ export const testimonials: Testimonial[] = [
     position: "Software Engineer",
     company: "TCS",
     avatar:
-      "/public/assets/Ankit Singhal.png",
+      "/assets/Ankit Singhal.png",
     text: "Working with this freelancer was an absolute pleasure. They delivered a website that exceeded our expectations and has significantly improved our online presence. Their attention to detail and ability to translate our vision into reality was impressive.",
   },
   {
@@ -145,7 +145,7 @@ export const testimonials: Testimonial[] = [
     position: "Student",
     company: "",
     avatar:
-      "/public/assets/Sankalp Haritash.jpg",
+      "/assets/Sankalp Haritash.jpg",
     text: "The SEO and marketing strategy developed for our brand was nothing short of brilliant. Our organic traffic increased by 200% in just three months, and our conversion rates have improved dramatically. Highly recommend their services.",
   },
   {
