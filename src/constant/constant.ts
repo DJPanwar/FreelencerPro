@@ -154,7 +154,7 @@ export const testimonials: Testimonial[] = [
     position: "Software Developer",
     company: "Fiftyfive Technologies",
     avatar:
-      "/public/assets/Manjeet Agarwal.jpg",
+      "/assets/Manjeet Agarwal.jpg",
     text: "The brand identity created for my boutique perfectly captures our essence. From logo design to color palette, every element aligns with our vision. They truly understood what we needed and delivered beyond our expectations.",
   },
 ];
