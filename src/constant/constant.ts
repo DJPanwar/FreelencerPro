@@ -28,9 +28,9 @@ export const navigationLinks = [
 ];
 
 export const socialLinks = [
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Twitter, href: "#", label: "Twitter" },
+  { icon: Github, href: "https://github.com/DJPanwar", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/deepakpanwar/", label: "LinkedIn" },
+  { icon: Twitter, href: "https://x.com/deepak512panwar", label: "Twitter" },
 ];
 
 export const navigationItems = [
@@ -132,29 +132,29 @@ export const ServicesData: Service[] = [
 export const testimonials: Testimonial[] = [
   {
     id: 1,
-    name: "Sarah Johnson",
-    position: "CEO",
-    company: "InnovateX",
+    name: "Ankit Singhal",
+    position: "Software Engineer",
+    company: "TCS",
     avatar:
-      "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "/public/assets/Ankit Singhal.png",
     text: "Working with this freelancer was an absolute pleasure. They delivered a website that exceeded our expectations and has significantly improved our online presence. Their attention to detail and ability to translate our vision into reality was impressive.",
   },
   {
     id: 2,
-    name: "Michael Chen",
-    position: "Marketing Director",
-    company: "Pulse Media",
+    name: "Sankalp Haritash",
+    position: "Student",
+    company: "",
     avatar:
-      "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "/public/assets/Sankalp Haritash.jpg",
     text: "The SEO and marketing strategy developed for our brand was nothing short of brilliant. Our organic traffic increased by 200% in just three months, and our conversion rates have improved dramatically. Highly recommend their services.",
   },
   {
     id: 3,
-    name: "Olivia Rodriguez",
-    position: "Founder",
-    company: "Artisan Boutique",
+    name: "Manjeet Agarwal",
+    position: "Software Developer",
+    company: "Fiftyfive Technologies",
     avatar:
-      "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "/public/assets/Manjeet Agarwal.jpg",
     text: "The brand identity created for my boutique perfectly captures our essence. From logo design to color palette, every element aligns with our vision. They truly understood what we needed and delivered beyond our expectations.",
   },
 ];

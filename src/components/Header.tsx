@@ -47,19 +47,19 @@ const Header = () => {
           {/* Social Icons - Desktop */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="#"
+              href="https://github.com/DJPanwar"
               className="text-white hover:text-emerald-400 transition-colors duration-300"
             >
               <Github size={20} />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/deepakpanwar/"
               className="text-white hover:text-emerald-400 transition-colors duration-300"
             >
               <Linkedin size={20} />
             </a>
             <a
-              href="#"
+              href="https://x.com/deepak512panwar"
               className="text-white hover:text-emerald-400 transition-colors duration-300"
             >
               <Twitter size={20} />
