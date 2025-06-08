@@ -51,7 +51,7 @@ export const projects: Project[] = [
       "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     description:
       "A modern e-commerce platform with a seamless shopping experience.",
-    link: "#",
+    link: "https://ecommmercewesite.netlify.app/",
   },
   {
     id: 2,
