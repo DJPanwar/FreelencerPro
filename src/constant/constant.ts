@@ -61,7 +61,7 @@ export const projects: Project[] = [
       "https://images.pexels.com/photos/6804073/pexels-photo-6804073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     description:
       "Complete brand identity design including logo, colors, and guidelines.",
-    link: "https://www.figma.com/design/gEpazLDCtHVBwHeXLeFiNn/Untitled?t=Q4bWofTCcgd20uQu-1",
+    link: "https://logoopage.netlify.app/",
   },
   {
     id: 3,
