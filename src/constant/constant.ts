@@ -79,7 +79,7 @@ export const projects: Project[] = [
     image:
       "https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     description: "Intuitive mobile app with cross-platform functionality.",
-    link: "#",
+    link: "https://music-mast.vercel.app/",
   },
   {
     id: 5,
