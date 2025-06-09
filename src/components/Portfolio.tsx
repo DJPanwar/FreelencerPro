@@ -65,6 +65,8 @@ const Portfolio = () => {
                 <p className="text-gray-300 mb-4">{project.description}</p>
                 <a
                   href={project.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center text-emerald-400 hover:text-emerald-300 transition-colors duration-300"
                 >
                   View Project <ExternalLink size={16} className="ml-2" />
